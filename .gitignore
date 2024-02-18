@@ -185,7 +185,7 @@ pyrightconfig.json
 de-lifecycle
 
 # Config
-.conf
+*.conf
 
 # Service Account
 *.json
