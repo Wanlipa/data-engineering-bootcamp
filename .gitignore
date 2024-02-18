@@ -189,3 +189,6 @@ de-lifecycle
 
 # Service Account
 *.json
+
+# /data
+data/
