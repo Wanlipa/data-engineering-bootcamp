@@ -188,4 +188,4 @@ de-lifecycle
 .conf
 
 # Service Account
-.json
+*.json
