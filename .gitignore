@@ -190,5 +190,5 @@ de-lifecycle
 # Service Account
 *.json
 
-# /data
+# no data folder
 data/
