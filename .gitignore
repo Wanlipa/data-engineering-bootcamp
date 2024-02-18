@@ -186,3 +186,6 @@ de-lifecycle
 
 # Config
 .conf
+
+# Service Account
+.json
